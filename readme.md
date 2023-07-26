@@ -1,0 +1,1 @@
+***HTML Navbar because navbar does not work on astro lol ***
